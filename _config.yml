@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 description: Data Science Portfolio
 LinkedIn:
   zip_url: site.github.owner_url
-  another_url: www.linkedin.com/in/alexis-enriquez-bba74b139
+  another_url: https://www.linkedin.com/in/alexis-enriquez-bba74b139
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
